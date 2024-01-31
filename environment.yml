@@ -1,4 +1,4 @@
-name: ears33
+name: geol320
 channels:
 - conda-forge
 - defaults
@@ -10,10 +10,7 @@ dependencies:
 - seaborn
 - geopandas
 - shapely
-- geemap
-- rasterio
 - jupyterlab
-- earthengine-api
 - pip
 
 - pip:
