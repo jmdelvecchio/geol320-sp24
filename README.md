@@ -21,3 +21,4 @@ If you found this notebook and want to implement these activities in your own cl
 # Testers
 Thank you to the people who have tested these notebooks:
 1. Dorothy Merritts, Franklin and Marshall, Fall 2023
+2. Dartmouth College EARS33 students from Spring 2022 and Spring 2023
